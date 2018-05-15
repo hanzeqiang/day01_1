@@ -8,7 +8,7 @@ public class day01_Learn{
 			System.out.println(0B1111);//15
 			System.out.println(0xF);//15
 			System.out.println(017);//15
-			
+			System.out.println("123");
 			System.out.println(true);
 			System.out.println(false);
 
